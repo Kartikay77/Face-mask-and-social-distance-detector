@@ -25,7 +25,7 @@ People: 1 | Safe: 1 | Violations: 0 | Masked: 0 | NoMask: 1
 Annotated frames highlight individuals, risk zones, and mask compliance in real time.
 #Eg1
 ![Demo Screenshot](1stEg.png)
-![Demo Screenshot](1stEg_O:P.png)
+![Demo Screenshot](1stEgOP.png)
 
 #Eg2
 ![Demo Screenshot](normal_4.png)
