@@ -23,6 +23,23 @@ TensorFlow (for detection graphs)
 📊 Example Output
 People: 1 | Safe: 1 | Violations: 0 | Masked: 0 | NoMask: 1
 Annotated frames highlight individuals, risk zones, and mask compliance in real time.
+#Eg1
+![Demo Screenshot](1stEg.png)
+![Demo Screenshot](1stEg_O:P.png)
+
+#Eg2
+![Demo Screenshot](normal_4.png)
+![Demo Screenshot](2ndExOP.png)
+
+#Eg3
+![Demo Screenshot](normal_srk.png)
+![Demo Screenshot](img_srk.png)
+
+#Eg4
+![Demo Screenshot](normal3.png)
+![Demo Screenshot](3rdexop.png)
+
+#WebCam
 ![Demo Screenshot](Webcam.png)
 
 
